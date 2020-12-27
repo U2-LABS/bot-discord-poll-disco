@@ -1,6 +1,6 @@
 from playhouse.shortcuts import model_to_dict
 
-from discord_poll_bot.songs import Song
+from discord_poll_bot.utils.songs import Song
 
 
 def create_top(state):

@@ -1,7 +1,7 @@
 import json
 import os
 
-from discord_poll_bot.songs import Song
+from discord_poll_bot.utils.songs import Song
 from discord_poll_bot.utils.marsh_schemas import StateSchema
 from discord_poll_bot.utils.work_with_csv import get_music_csv, create_csv
 

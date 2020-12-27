@@ -5,7 +5,7 @@ from discord.ext import commands
 from peewee import fn
 
 from discord_poll_bot.bot_settings import state
-from discord_poll_bot.songs import Song
+from discord_poll_bot.utils.songs import Song
 from discord_poll_bot.utils import permissions
 from discord_poll_bot.utils.help_functions import create_top, upload_song
 
