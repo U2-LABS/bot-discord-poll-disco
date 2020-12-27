@@ -1,6 +1,6 @@
 from discord.ext import commands
 
-from discord_poll_bot.bot_config import settings, state
+from discord_poll_bot.bot_settings import settings, state
 
 
 class PollDoNotStarted(commands.CheckFailure):

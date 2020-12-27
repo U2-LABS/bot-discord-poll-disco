@@ -55,7 +55,7 @@ def get_music_csv(file_name):
         csv_reader = csv.DictReader(r_file, delimiter=',')
         for idx, song in enumerate(csv_reader):
             song['mark'] = 0
-            song['pos'] = idx+1
+            song['pos'] = idx + 1
             song['voted_users'] = []
             songs.append(song)
-    return songs
+    return sorted(songs, key=lambda song: song["author"])
