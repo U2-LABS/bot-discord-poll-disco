@@ -1,0 +1,38 @@
+aiohttp==3.6.3
+async-timeout==3.0.1
+atomicwrites==1.4.0
+attrs==20.3.0
+beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1601745390275/work
+brotlipy==0.7.0
+certifi==2020.12.5
+cffi @ file:///D:/bld/cffi_1606601395031/work
+chardet @ file:///D:/bld/chardet_1607674005209/work
+colorama==0.4.4
+coverage==5.3.1
+cryptography @ file:///D:/bld/cryptography_1607606432554/work
+discord.py==1.5.1
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+iniconfig==1.1.1
+marshmallow @ file:///home/conda/feedstock_root/build_artifacts/marshmallow_1608465425564/work
+multidict==4.7.6
+packaging==20.8
+peewee==3.14.0
+pluggy==0.13.1
+psycopg2==2.8.6
+py==1.10.0
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
+pyparsing==2.4.7
+PySocks @ file:///D:/bld/pysocks_1602327034683/work
+pytest==6.2.1
+pytest-cov==2.10.1
+pytest-mock==3.4.0
+python-dotenv==0.15.0
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1608156231189/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1597680516047/work
+toml==0.10.2
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1605225765842/work
+win-inet-pton @ file:///D:/bld/win_inet_pton_1602260115377/work
+wincertstore==0.2
+yarl==1.5.1
